@@ -15,4 +15,6 @@ jobs:
           import platform
           print
           (platform.processor())
+          print
+          ("Some text")
         shell: python
